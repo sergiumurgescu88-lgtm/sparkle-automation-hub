@@ -5,6 +5,7 @@ import SocialProofSection from "@/components/SocialProofSection";
 import AutomationsGrid from "@/components/AutomationsGrid";
 import PodcastSection from "@/components/PodcastSection";
 import PricingSection from "@/components/PricingSection";
+import ContactSection from "@/components/ContactSection";
 import PartnerSection from "@/components/PartnerSection";
 import Footer from "@/components/Footer";
 import FloatingCTA from "@/components/FloatingCTA";
@@ -19,6 +20,7 @@ const Index = () => {
       <AutomationsGrid />
       <PodcastSection />
       <PricingSection />
+      <ContactSection />
       <PartnerSection />
       <Footer />
       <FloatingCTA />
